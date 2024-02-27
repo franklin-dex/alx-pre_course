@@ -1,1 +1,1 @@
-My first readme file
+My first readme file as an se student 
