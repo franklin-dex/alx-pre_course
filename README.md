@@ -1,1 +1,1 @@
-My first readme file as an se student 
+My first readme file as a Software engineering student 
